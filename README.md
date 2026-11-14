@@ -1,0 +1,1 @@
+This is a score tracker for playing various board and card games, built natively in xcode without the use of artificial intelligence models and tools. It will soon be available on the app store to download.
